@@ -1,0 +1,9 @@
+baseURL = 'http://mofeing.xyz/tensor-networks/'
+languageCode = 'en-us'
+title = 'Tensor Networks for the (not so) brave'
+
+[module]
+[[module.imports]]
+path = "github.com/alex-shpak/hugo-book"
+[[module.imports]]
+path = "github.com/loup-brun/hugo-cite"
