@@ -24,6 +24,14 @@ The **Density Matrix Renormalization Group** algorithm...
 H = - J \sum_{j=1}^N \sigma_j \sigma_{j+1} - h \sum_{j=1}^N \sigma_j
 {{</katex>}}
 
+{{<center>}}
+{{<figure src="/tensor-networks/docs/structured-tensor-networks/dmrg-sites.svg">}}
+{{</center>}}
+
+{{<center>}}
+{{<figure src="/tensor-networks/docs/structured-tensor-networks/dmrg-sites+superblock.svg" style="text-align: center">}}
+{{</center>}}
+
 #### Step 2:
 
 #### Step 3: Reduced density matrix
