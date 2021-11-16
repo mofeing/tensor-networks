@@ -18,6 +18,10 @@ The **Density Matrix Renormalization Group** algorithm...
 
 ### Infinite DMRG
 
+{{<center>}}
+{{<figure src="/tensor-networks/docs/structured-tensor-networks/spin-chain.svg">}}
+{{</center>}}
+
 #### Step 1: Superblock Hamiltonian
 
 {{<katex display>}}
