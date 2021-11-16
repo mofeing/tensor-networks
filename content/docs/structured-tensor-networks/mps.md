@@ -1,5 +1,5 @@
 ---
-title: "Matrix Product States"
+title: "Matrix Product States (MPS)"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
