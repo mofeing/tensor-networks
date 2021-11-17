@@ -18,9 +18,8 @@ The **Density Matrix Renormalization Group** algorithm is a numerical method dev
 
 ### Infinite DMRG
 
-{{<center>}}
-{{<figure src="/tensor-networks/docs/structured-tensor-networks/spin-chain.svg">}}
-{{</center>}}
+
+{{<figure "spin-chain.svg">}}
 
 #### Step 1: Superblock Hamiltonian
 
@@ -28,13 +27,9 @@ The **Density Matrix Renormalization Group** algorithm is a numerical method dev
 H = - J \sum_{j=1}^N \sigma_j \sigma_{j+1} - h \sum_{j=1}^N \sigma_j
 {{</katex>}}
 
-{{<center>}}
-{{<figure src="/tensor-networks/docs/structured-tensor-networks/dmrg-sites.svg">}}
-{{</center>}}
+{{<figure "dmrg-sites.svg">}}
 
-{{<center>}}
-{{<figure src="/tensor-networks/docs/structured-tensor-networks/dmrg-sites+superblock.svg" style="text-align: center">}}
-{{</center>}}
+{{<figure "dmrg-sites+superblock.svg">}}
 
 #### Step 2: Select target state
 
